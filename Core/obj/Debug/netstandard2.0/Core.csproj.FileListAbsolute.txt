@@ -1,0 +1,9 @@
+D:\Projects\DEMO\skinet\Core\bin\Debug\netstandard2.0\Core.deps.json
+D:\Projects\DEMO\skinet\Core\bin\Debug\netstandard2.0\Core.dll
+D:\Projects\DEMO\skinet\Core\bin\Debug\netstandard2.0\Core.pdb
+D:\Projects\DEMO\skinet\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+D:\Projects\DEMO\skinet\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+D:\Projects\DEMO\skinet\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+D:\Projects\DEMO\skinet\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+D:\Projects\DEMO\skinet\Core\obj\Debug\netstandard2.0\Core.dll
+D:\Projects\DEMO\skinet\Core\obj\Debug\netstandard2.0\Core.pdb

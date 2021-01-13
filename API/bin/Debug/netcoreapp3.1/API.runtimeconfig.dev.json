@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\keawm\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\keawm\\.nuget\\packages"
+    ]
+  }
+}
